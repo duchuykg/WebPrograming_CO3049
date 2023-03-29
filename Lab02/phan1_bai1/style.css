@@ -1,0 +1,15 @@
+@media screen and (max-width: 992px) {
+  .hide {
+    display: none;
+  }
+}
+.bold {
+  font-weight: 550;
+}
+.blue {
+  text-decoration: none;
+}
+.black {
+  color: black;
+  text-decoration: none
+}
