@@ -1,0 +1,18 @@
+@media screen and (max-width: 992px) {
+  .hide {
+    display: none;
+  }
+}
+/* .underline {
+  text-decoration: underline;
+} */
+/* .bold {
+  font-weight: 550;
+} */
+/* .blue {
+  text-decoration: none;
+} */
+.black {
+  color: black;
+  text-decoration: none
+}
